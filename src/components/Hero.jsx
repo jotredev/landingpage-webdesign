@@ -8,7 +8,7 @@ import {
 
 const Hero = () => {
   return (
-    <section className="min-h-[90vh] grid grid-cols-1 xl:grid-cols-8">
+    <section id="home" className="min-h-[90vh] grid grid-cols-1 xl:grid-cols-8">
       {/* Information */}
       <div className="md:col-span-5 flex items-center justify-center p-8 xl:p-16">
         <div className="flex flex-col gap-8">
